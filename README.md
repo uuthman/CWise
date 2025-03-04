@@ -4,6 +4,11 @@
 ## 📖 Overview
 - Currency Converter
 
+### **Important**
+- The fixer api free version only allow EUR as a base Currency which is while in the application you cannot change the base currency
+- The free version also does not support the time series endpoint which is while the graph was not worked on
+
+
 
 ### **Prerequisites**
 Ensure you have the following installed:
